@@ -1,6 +1,6 @@
 # onboardingscreen_sharedprefs
 
-A new Flutter project.
+An onboarding screen navigations using local storage shared preferences
 
 ## Getting Started
 
